@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **SQL e ML**
 
-- 📝 Todos os meus projetos: [https://sites.google.com/view/manusaleal/in%C3%ADcio](https://sites.google.com/view/manusaleal/in%C3%ADcio)
+- 📝 Projetos no Power BI e demais estudos: [https://sites.google.com/view/manusaleal/in%C3%ADcio](https://sites.google.com/view/manusaleal/in%C3%ADcio)
 
 - 💬 Me pergunte sobre **Python, Power BI e Excel**
 
