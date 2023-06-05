@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **SQL e ML**
 
-- 📝 Portifólio e demais estudos: [https://sites.google.com/view/manusaleal/in%C3%ADcio](https://sites.google.com/view/manusaleal/in%C3%ADcio)
+- 📝 Portifólio e demais estudos: [https://sites.google.com/view/manusaleal](https://sites.google.com/view/manusaleal/in%C3%ADcio)
 
 - 💬 Me pergunte sobre **Python, Power BI e Excel**
 
