@@ -3,11 +3,11 @@
 
 - 🌱 Atualmente estou aprendendo **SQL e ML**
 
-- 📝 Portifólio e demais estudos: [https://sites.google.com/view/manusaleal](https://sites.google.com/view/manusaleal/in%C3%ADcio)
+- 📝 Portfólio e demais estudos: [https://sites.google.com/view/manusaleal](https://sites.google.com/view/manusaleal/in%C3%ADcio)
 
 - 💬 Me pergunte sobre **Python, Power BI e Excel**
 
-- 📫 Me encontre através do e-mail **manusasoares@gmail.com**
+- 📫 Me encontre através do e-mail: **manusasoares@gmail.com**
 
 - 📄 Conheça minhas experiências: [https://www.linkedin.com/in/manusa-leal/](https://www.linkedin.com/in/manusa-leal/)
 
