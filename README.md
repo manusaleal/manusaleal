@@ -1,11 +1,8 @@
 <h1 align="center">Olá 👋, Eu sou a Manusa</h1>
-<h3 align="center">Apaixonada por ciência e análise de dados</h3>
-
-- 🌱 Atualmente estou aprendendo **SQL e ML**
 
 - 📝 Portfólio e demais estudos: [https://sites.google.com/view/manusaleal](https://sites.google.com/view/manusaleal/in%C3%ADcio)
 
-- 💬 Me pergunte sobre **Python, Power BI e Excel**
+- 💬 Me pergunte sobre **Engenharia de Machine Learning**
 
 - 📫 Me encontre através do e-mail: **manusasoares@gmail.com**
 
